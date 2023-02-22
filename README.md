@@ -1,4 +1,4 @@
-Hello！👋 I am likeduck! 👋 Welcome to my personal homepage！ 👋
+Hello! 👋 I am likeduck! 👋 Welcome to my personal homepage! 👋
 
 Location：Shandong Heze in China🏰💒⛪ School：Imperial Energy High School 🏪🏫🏭like：Duck&Rock&J.A.Seazer🏤🏥🏦
 
