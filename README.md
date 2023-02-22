@@ -16,3 +16,5 @@ Hello！👋👋👋
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likeduck&theme=light&layout=compact)
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=likeduck" /> </div>
+
