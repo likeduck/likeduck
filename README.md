@@ -8,4 +8,4 @@
 - like：Duck&Rock&J.A.Seazer🏤🏥🏦
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=CE1D2D&text_color=718096&theme=light&count_private=true&hide_title=true" />
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=likeduck&multiline=true&width=100&color=000000" />
