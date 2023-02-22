@@ -7,5 +7,6 @@
 - My visitors: <img align=center src="https://visitor-badge.glitch.me/badge?username=likeduck&page_id=page.id&left_color=green&right_color=red" />
 - like：Duck&Rock&J.A.Seazer🏤🏥🏦
 
-<img align=left src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=CE1D2D&text_color=718096&theme=light&count_private=true&hide_title=true" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=likeduck&multiline=true&width=100&color=000000" />
+<img align=left src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=CE1D2D&text_color=718096&theme=light&count_private=true&hide_title=true" /><img align=right src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=likeduck&multiline=true&theme=ycode&color=000000" />
+
