@@ -18,3 +18,4 @@ Hello！👋👋👋
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=likeduck" /> </div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=likeduck" /> </div>
