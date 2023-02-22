@@ -7,7 +7,7 @@
 - like：Duck&Rock&J.A.Seazer🏤🏥🏦
 - My visitors: <img align=center src="https://visitor-badge.glitch.me/badge?username=likeduck&page_id=page.id&left_color=green&right_color=red" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=228B22&border_radius=10&locale=ch&text_color=000000&&&count_private=true&hide_title=true" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=228B22&border_radius=10&&text_color=000000&&&count_private=true&hide_title=true" /> 
 
 ### 舒并节以驰骛兮，逴绝垠乎寒门。
 ### 轶迅风于清源兮，从颛顼乎增冰。
