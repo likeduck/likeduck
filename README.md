@@ -1,1 +1,1 @@
-# likeduck.github.io
+Hello world!
