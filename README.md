@@ -9,7 +9,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=likeduck&show_icons=true&icon_color=CE1D2D&text_color=000000&theme=vue&&count_private=true&hide_title=true" /> 
 
-### 舒并节以驰骛兮，逴绝垠乎寒门。
 ### 轶迅风于清源兮，从颛顼乎增冰。
 ### 历玄冥以邪径兮，乘间维以反顾。
 ### 召黔瀛而见之兮，为余先乎平路。
