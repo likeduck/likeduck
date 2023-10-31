@@ -15,5 +15,4 @@
 ### 召黔瀛而见之兮，为余先乎平路。
 
 <img align=right src="https://readme-typing-svg.demolab.com/?lines=+张+咸+池+奏+承+云+兮+二+女+御+九+韶+歌&color=FF6347" /> <img align=right src="https://readme-typing-svg.demolab.com/?lines=+使+湘+灵+鼓+瑟+兮+令+海+若+舞+冯+夷&color=228B22" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=likeduck&multiline=true&bg_color=FFFAFA&color=000000&line=0000FF" />
 
